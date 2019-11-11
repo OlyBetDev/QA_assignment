@@ -4,7 +4,7 @@ Assignment for a potential OlyBet QA engineer.
 
 ## Getting Started
 
-Prepare proof of concept automated testing examples for https://www.olybet.lt portal (requires login). Automated tests should cover following scenarios for:
+Prepare proof of concept automated testing examples for https://www.olybet.lt portal (requires login). Automated tests should cover the following scenarios:
 - Login
 - Change language to English
 - Navigate to "My Profile" page -> "Information" tab (https://www.olybet.lt/user/profile)
